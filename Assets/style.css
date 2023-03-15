@@ -1,0 +1,37 @@
+/* having a star is universal to the whole page */
+/* * {
+    
+  } */
+    
+  /* having a dot befor makes it a class/ class is lighter than the id tag */
+.body {
+    text-align: center;
+  }
+  
+  /* not having a dot or hash will aplly to the whole element not linked ones */
+header {
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+  }
+  
+.main {
+    text-align: center;
+  }
+
+aside {
+    padding: 20px;
+  }
+
+  aside p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+button {
+    float: left;
+    padding: 8px;
+  }
+  /* having a hash befor makes is a id/ id is heavier than the class tag */
+#section {
+    text-align: center;
+  }
