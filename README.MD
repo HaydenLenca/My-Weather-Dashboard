@@ -27,7 +27,7 @@ N/A
 
 [Git Hub](https://github.com/HaydenLenca/My-Weather-Dashboard)
 
-[Deployed Site]()
+[Deployed Site](https://haydenlenca.github.io/My-Weather-Dashboard/)
 
 ## License
 
